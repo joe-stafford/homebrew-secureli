@@ -9,7 +9,7 @@ class Secureli < Formula
 
     depends_on "pre-commit"
     depends_on "pygments"
-    depends_on "python@3.9"
+    depends_on "python@3.11"
     depends_on "python-certifi"
     depends_on "python-charset-normalizer"
     depends_on "python-click"
