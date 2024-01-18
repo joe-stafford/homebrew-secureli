@@ -7,7 +7,7 @@ class Secureli < Formula
     sha256 "d70ca437d0f5adc606f91db6393747ac490c312de3bd83a304407dab42827518"
     license "Apache-2.0"
 
-    # depends_on "pre-commit"
+    depends_on "pre-commit"
 
     depends_on "python@3.9"
 
